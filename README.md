@@ -14,7 +14,7 @@ Original App Design Project - README Template
 
 ### Description
 
-BookLib is an app that gives information about the book such as the summary, genre, and author.The app is targeted for bookworms who want to search for new books to read. We are building this app to provide users with an easy and clean way to look for new books that they might be interested in reading.
+BookShelf is an app that gives information about the book such as the summary, genre, and author.The app is targeted for bookworms who want to search for new books to read. We are building this app to provide users with an easy and clean way to look for new books that they might be interested in reading.
 
 
 ### App Evaluation
