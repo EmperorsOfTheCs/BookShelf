@@ -80,7 +80,8 @@ BookShelf is an app that gives information about the book such as the summary, g
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
+![image](https://hackmd.io/_uploads/Sy4vF-rRp.png)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -91,19 +92,18 @@ BookShelf is an app that gives information about the book such as the summary, g
 
 ### Models
 
-[Model Name, e.g., User]
 | Property | Type   | Description                                  |
 |----------|--------|----------------------------------------------|
 | username | String | unique id for the user post (default field)   |
 | password | String | user's password for login authentication      |
-| ...      | ...    | ...                          
+| email    | String | user's email to sign up
 
 
 ### Networking
 
 - [List of network requests by screen]
-- [Example: `[GET] /users` - to retrieve user data]
-- ...
+- GET https://www.googleapis.com/books/v1/volumes/zyTCAlFPjgYC?key=yourAPIKey- to retrieve book data
+
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
