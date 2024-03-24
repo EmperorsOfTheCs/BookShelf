@@ -85,7 +85,13 @@ BookShelf is an app that gives information about the book such as the summary, g
 
 ### [BONUS] Digital Wireframes & Mockups
 
-### [BONUS] Interactive Prototype
+<div>
+    <a href="https://www.loom.com/share/0fcb787ca7214bb2b72a1be268ff73b7">
+    </a>
+    <a href="https://www.loom.com/share/0fcb787ca7214bb2b72a1be268ff73b7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0fcb787ca7214bb2b72a1be268ff73b7-with-play.gif">
+    </a>
+  </div>
 
 ## Schema 
 
@@ -107,3 +113,6 @@ BookShelf is an app that gives information about the book such as the summary, g
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+
