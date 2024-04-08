@@ -94,11 +94,20 @@ BookShelf is an app that gives information about the book such as the summary, g
   </div>
 
   
-  Build Progress:
+### Build Progress:
 
 <div>
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec3948271cc14b49ad48b38d002a8f68-with-play.gif">
+    <a href="https://www.loom.com/share/50e56459314d451bb7f5b44c86f78846">
+    </a>
+    <a href="https://www.loom.com/share/50e56459314d451bb7f5b44c86f78846">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/50e56459314d451bb7f5b44c86f78846-with-play.gif">
+    </a>
   </div>
+
+### Demo Day Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I1E_REsXm5c?si=CLDwPmXqZ-WOPuf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Schema 
