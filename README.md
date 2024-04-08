@@ -95,8 +95,10 @@ BookShelf is an app that gives information about the book such as the summary, g
 
   
   Build Progress:
-Bookshelf App Demo - Watch Video
 
+<div>
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec3948271cc14b49ad48b38d002a8f68-with-play.gif">
+  </div>
 
 
 ## Schema 
