@@ -106,7 +106,7 @@ BookShelf is an app that gives information about the book such as the summary, g
 
 ### Demo Day Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I1E_REsXm5c?si=CLDwPmXqZ-WOPuf-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/I1E_REsXm5c?si=Q5RRP3t5cbydyzyK
 
 
 
