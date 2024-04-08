@@ -33,49 +33,49 @@ BookShelf is an app that gives information about the book such as the summary, g
 
 **Required Must-have Stories**
 
-* User can sign up to use the app
-* User can login to their existing account
-* User can logout of the app
-* User can open the app and see a list of books
-* User can click on the book and see the book's summary, author, and genre
-* User can click on a navigation button to see a list of book covers
+[X] User can sign up to use the app
+[X] User can login to their existing account
+[X] User can logout of the app
+[X] User can open the app and see a list of books
+[X] User can click on the book and see the book's summary, author, and genre
+[X] User can click on a navigation button to see a list of book covers
 
 **Optional Nice-to-have Stories**
 
-* User can heart books they like
+[ ] User can heart books they like
 
 
 ### 2. Screen Archetypes
 
-- [ ] **Login Screen**
+- [X] **Login Screen**
 * User can log in
-- [ ] **Sign Up Screen**
+- [X] **Sign Up Screen**
 * User can sign up
-- [ ] **BookShelf Home Screen**
+- [X] **BookShelf Home Screen**
 * User can see a scrollable list of books with a small descriptions
-- [ ] **Book Information Screen**
+- [X] **Book Information Screen**
 * User can see the book's author, summary, and genre
-- [ ] **Book Covers**
+- [X] **Book Covers**
 * User can see a list of interactive book covers
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
 
-- [ ] First Tab: BookShelf Home Screen
-- [ ] Second Tab: Book Covers Screen
+- [X] First Tab: BookShelf Home Screen
+- [X] Second Tab: Book Covers Screen
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] **Login Screen**
+- [X] **Login Screen**
   * Leads to **BookShelf Home Screen**
-- [ ] **Sign Up Screen**
+- [X] **Sign Up Screen**
   * Leads to **Bookshelf Home Screen**
-- [ ] **Clicking on a book from BookShelf Home Screen**
+- [X] **Clicking on a book from BookShelf Home Screen**
   * Leads to **Bookshelf Information Screen**
-- [ ] **Clicking on a book from Book Covers Screen**
+- [X] **Clicking on a book from Book Covers Screen**
   * Leads to **Bookshelf Information Screen**
-- [ ] **Clicking on logout button from BookShelf Home Screen**
+- [X] **Clicking on logout button from BookShelf Home Screen**
   * Leads to **Login Screen**
 
 ## Wireframes
