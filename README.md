@@ -92,6 +92,9 @@ BookShelf is an app that gives information about the book such as the summary, g
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0fcb787ca7214bb2b72a1be268ff73b7-with-play.gif">
     </a>
   </div>
+  
+![video2089617002](https://github.com/EmperorsOfTheCs/BookShelf/assets/36964473/382b65a1-c72d-417a-a477-a1c9c9e52837)
+
 
 ## Schema 
 
